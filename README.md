@@ -88,6 +88,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## 👨‍💻 Autor
 
-Seu Nome - [@PedrohFolster](https://github.com/PedrohFolster)
+PedrohFolster - [@PedrohFolster](https://github.com/PedrohFolster)
 
 ---
